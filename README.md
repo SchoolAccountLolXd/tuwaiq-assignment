@@ -27,7 +27,7 @@ This project builds a complete, end-to-end data analysis pipeline on the Titanic
 ---
 
 ### **Research Sources**
-To ensure industry-standard code quality, the following sources were utilized:
+To ensure industry standard code quality, the following sources were utilized:
 1.  **W3Schools:** Pandas syntax and basic Python logic.
 2.  **Stack Overflow:** Debugging data paths and URL integration.
 3.  **Pandas Official Docs:** Advanced DataFrame manipulations.
@@ -37,6 +37,6 @@ To ensure industry-standard code quality, the following sources were utilized:
 ---
 
 ### **Project Notes**
-* **Reproducibility:** All notebooks use **raw GitHub URLs**—the project can be run from any machine via Google Colab or VS Code.
+* **Reproducibility:** All notebooks use **raw GitHub URLs** the project can be run from any machine via Google Colab or VS Code.
 * **Visual Proof:** All charts and data tables are rendered directly within the `.ipynb` files for immediate review.
 * **AI Disclosure:** AI assistance (**Gemini / ChatGPT**) was used for code structuring, debugging, and explaining complex math. All analytical decisions and final explanations are the student's own work.
