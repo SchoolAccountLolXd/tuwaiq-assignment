@@ -1,0 +1,776 @@
+Survived,Pclass,Age,SibSp,Parch,Fare,Sex_male,Embarked_Q,Embarked_S,Pclass_ordinal,Fare_per_class,Family_size,Fare_log,Age_group,Survived_label,Class_label
+0,3,22.0,1,0,7.25,True,False,True,1,7.25,2,2.1102132003465894,Adult,Did Not Survive,3rd Class
+1,1,38.0,1,0,71.2833,False,False,False,3,23.7611,2,4.2805931204649,Middle-Aged,Survived,1st Class
+1,3,26.0,0,0,7.925,False,False,True,1,7.925,1,2.188856327665703,Adult,Survived,3rd Class
+1,1,35.0,1,0,53.1,False,False,True,3,17.7,2,3.9908341858524357,Adult,Survived,1st Class
+0,3,35.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,3,28.0,0,0,8.4583,True,True,False,1,8.4583,1,2.246892662898172,Adult,Did Not Survive,3rd Class
+0,1,54.0,0,0,51.8625,True,False,True,3,17.287499999999998,1,3.967694202798607,Middle-Aged,Did Not Survive,1st Class
+0,3,2.0,3,1,21.075,True,False,True,1,21.075,5,3.094445746490024,Child,Did Not Survive,3rd Class
+1,3,27.0,0,2,11.1333,False,False,True,1,11.1333,3,2.4959537387180646,Adult,Survived,3rd Class
+1,2,14.0,1,0,30.0708,False,False,False,2,15.0354,2,3.436268471383741,Youth,Survived,2nd Class
+1,3,4.0,1,1,16.7,False,False,True,1,16.7,3,2.8735646395797834,Child,Survived,3rd Class
+1,1,58.0,0,0,26.55,False,False,True,3,8.85,1,3.3160025355989236,Middle-Aged,Survived,1st Class
+0,3,20.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,3,39.0,1,5,31.275,True,False,True,1,31.275,7,3.4742929367327062,Middle-Aged,Did Not Survive,3rd Class
+0,3,14.0,0,0,7.8542,False,False,True,1,7.8542,1,2.180891922715322,Youth,Did Not Survive,3rd Class
+1,2,55.0,0,0,16.0,False,False,True,2,8.0,1,2.833213344056216,Middle-Aged,Survived,2nd Class
+0,3,2.0,4,1,29.125,True,True,False,1,29.125,6,3.405355391810819,Child,Did Not Survive,3rd Class
+1,2,28.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Survived,2nd Class
+0,3,31.0,1,0,18.0,False,False,True,1,18.0,2,2.9444389791664403,Adult,Did Not Survive,3rd Class
+1,3,28.0,0,0,7.225,False,False,False,1,7.225,1,2.1071782966514356,Adult,Survived,3rd Class
+0,2,35.0,0,0,26.0,True,False,True,2,13.0,1,3.295836866004329,Adult,Did Not Survive,2nd Class
+1,2,34.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Survived,2nd Class
+1,3,15.0,0,0,8.0292,False,True,False,1,8.0292,1,2.2004637699272855,Youth,Survived,3rd Class
+1,1,28.0,0,0,35.5,True,False,True,3,11.833333333333334,1,3.597312260588446,Adult,Survived,1st Class
+0,3,8.0,3,1,21.075,False,False,True,1,21.075,5,3.094445746490024,Child,Did Not Survive,3rd Class
+1,3,38.0,1,5,31.3875,False,False,True,1,31.3875,7,3.4777725458882283,Middle-Aged,Survived,3rd Class
+0,3,28.0,0,0,7.225,True,False,False,1,7.225,1,2.1071782966514356,Adult,Did Not Survive,3rd Class
+0,1,19.0,3,2,262.375,True,False,True,3,87.45833333333333,6,5.5735788721243535,Adult,Did Not Survive,1st Class
+1,3,28.0,0,0,7.8792,False,True,False,1,7.8792,1,2.1837114628556327,Adult,Survived,3rd Class
+0,3,28.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+0,1,40.0,0,0,27.7208,True,False,False,3,9.240266666666667,1,3.357621598945279,Middle-Aged,Did Not Survive,1st Class
+1,1,28.0,1,0,146.5208,False,False,False,3,48.84026666666667,2,4.993969182787072,Adult,Survived,1st Class
+1,3,28.0,0,0,7.75,False,True,False,1,7.75,1,2.169053700369523,Adult,Survived,3rd Class
+0,2,66.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Senior,Did Not Survive,2nd Class
+0,1,28.0,1,0,82.1708,True,False,False,3,27.390266666666665,2,4.420896324687287,Adult,Did Not Survive,1st Class
+0,1,42.0,1,0,52.0,True,False,True,3,17.333333333333332,2,3.970291913552122,Middle-Aged,Did Not Survive,1st Class
+1,3,28.0,0,0,7.2292,True,False,False,1,7.2292,1,2.1076888046179385,Adult,Survived,3rd Class
+0,3,21.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,3,18.0,2,0,18.0,False,False,True,1,18.0,3,2.9444389791664403,Youth,Did Not Survive,3rd Class
+1,3,14.0,1,0,11.2417,False,False,False,1,11.2417,2,2.5048481563289,Youth,Survived,3rd Class
+0,3,40.0,1,0,9.475,False,False,True,1,9.475,2,2.3489914658082016,Middle-Aged,Did Not Survive,3rd Class
+0,2,27.0,1,0,21.0,False,False,True,2,10.5,2,3.091042453358316,Adult,Did Not Survive,2nd Class
+0,3,28.0,0,0,7.8958,True,False,False,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+1,2,3.0,1,2,41.5792,False,False,False,2,20.7896,4,3.7513658711253766,Child,Survived,2nd Class
+1,3,19.0,0,0,7.8792,False,True,False,1,7.8792,1,2.1837114628556327,Adult,Survived,3rd Class
+0,3,28.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,3,28.0,1,0,15.5,True,True,False,1,15.5,2,2.803360380906535,Adult,Did Not Survive,3rd Class
+0,3,28.0,2,0,21.6792,True,False,False,1,21.6792,3,3.121448204868825,Adult,Did Not Survive,3rd Class
+0,3,18.0,1,0,17.8,False,False,True,1,17.8,2,2.9338568698359033,Youth,Did Not Survive,3rd Class
+0,3,7.0,4,1,39.6875,True,False,True,1,39.6875,6,3.705920919968788,Child,Did Not Survive,3rd Class
+0,3,21.0,0,0,7.8,True,False,True,1,7.8,1,2.174751721484161,Adult,Did Not Survive,3rd Class
+1,1,49.0,1,0,76.7292,False,False,False,3,25.576400000000003,2,4.353230991152628,Middle-Aged,Survived,1st Class
+1,2,29.0,1,0,26.0,False,False,True,2,13.0,2,3.295836866004329,Adult,Survived,2nd Class
+0,1,65.0,0,1,61.9792,True,False,False,3,20.65973333333333,2,4.142804513146981,Senior,Did Not Survive,1st Class
+1,2,21.0,0,0,10.5,False,False,True,2,5.25,1,2.4423470353692043,Adult,Survived,2nd Class
+0,3,28.5,0,0,7.2292,True,False,False,1,7.2292,1,2.1076888046179385,Adult,Did Not Survive,3rd Class
+1,2,5.0,1,2,27.75,False,False,True,2,13.875,4,3.3586377672433594,Child,Survived,2nd Class
+0,3,11.0,5,2,46.9,True,False,True,1,46.9,8,3.8691155044168695,Child,Did Not Survive,3rd Class
+0,3,22.0,0,0,7.2292,True,False,False,1,7.2292,1,2.1076888046179385,Adult,Did Not Survive,3rd Class
+1,1,38.0,0,0,80.0,False,False,True,3,26.666666666666668,1,4.394449154672439,Middle-Aged,Survived,1st Class
+0,1,45.0,1,0,83.475,True,False,True,3,27.825,2,4.436455632600354,Middle-Aged,Did Not Survive,1st Class
+0,3,4.0,3,2,27.9,True,False,True,1,27.9,6,3.3638415951183864,Child,Did Not Survive,3rd Class
+0,1,28.0,0,0,27.7208,True,False,False,3,9.240266666666667,1,3.357621598945279,Adult,Did Not Survive,1st Class
+1,3,28.0,1,1,15.2458,True,False,False,1,15.2458,3,2.7878344138303452,Adult,Survived,3rd Class
+1,2,29.0,0,0,10.5,False,False,True,2,5.25,1,2.4423470353692043,Adult,Survived,2nd Class
+0,3,19.0,0,0,8.1583,True,False,True,1,8.1583,1,2.2146605719425225,Adult,Did Not Survive,3rd Class
+1,3,17.0,4,2,7.925,False,False,True,1,7.925,7,2.188856327665703,Youth,Survived,3rd Class
+0,3,26.0,2,0,8.6625,True,False,True,1,8.6625,3,2.2682524139135403,Adult,Did Not Survive,3rd Class
+0,2,32.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Did Not Survive,2nd Class
+0,3,16.0,5,2,46.9,False,False,True,1,46.9,8,3.8691155044168695,Youth,Did Not Survive,3rd Class
+0,2,21.0,0,0,73.5,True,False,True,2,36.75,1,4.310799125385514,Adult,Did Not Survive,2nd Class
+0,3,26.0,1,0,14.4542,True,False,False,1,14.4542,2,2.737880811060884,Adult,Did Not Survive,3rd Class
+1,3,32.0,0,0,56.4958,True,False,True,1,56.4958,1,4.051711901657239,Adult,Survived,3rd Class
+0,3,25.0,0,0,7.65,True,False,True,1,7.65,1,2.157559320943788,Adult,Did Not Survive,3rd Class
+1,2,0.83,0,2,29.0,True,False,True,2,14.5,3,3.4011973816621555,Child,Survived,2nd Class
+1,3,30.0,0,0,12.475,False,False,True,1,12.475,1,2.600836116795061,Adult,Survived,3rd Class
+0,3,22.0,0,0,9.0,True,False,True,1,9.0,1,2.302585092994046,Adult,Did Not Survive,3rd Class
+1,3,29.0,0,0,9.5,True,False,True,1,9.5,1,2.3513752571634776,Adult,Survived,3rd Class
+1,3,28.0,0,0,7.7875,False,True,False,1,7.7875,1,2.1733302571367834,Adult,Survived,3rd Class
+0,1,28.0,0,0,47.1,True,False,True,3,15.700000000000001,1,3.8732821771117156,Adult,Did Not Survive,1st Class
+1,2,17.0,0,0,10.5,False,False,True,2,5.25,1,2.4423470353692043,Youth,Survived,2nd Class
+1,3,33.0,3,0,15.85,False,False,True,1,15.85,4,2.8243506567983707,Adult,Survived,3rd Class
+0,3,16.0,1,3,34.375,True,False,True,1,34.375,5,3.5660053559634015,Youth,Did Not Survive,3rd Class
+1,1,23.0,3,2,262.375,False,False,True,3,87.45833333333333,6,5.5735788721243535,Adult,Survived,1st Class
+0,3,24.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,3,29.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,3,20.0,0,0,7.8542,True,False,True,1,7.8542,1,2.180891922715322,Adult,Did Not Survive,3rd Class
+0,1,46.0,1,0,61.175,True,False,True,3,20.391666666666666,2,4.1299529896894684,Middle-Aged,Did Not Survive,1st Class
+0,3,26.0,1,2,20.575,True,False,True,1,20.575,4,3.0715352369694915,Adult,Did Not Survive,3rd Class
+0,3,59.0,0,0,7.25,True,False,True,1,7.25,1,2.1102132003465894,Middle-Aged,Did Not Survive,3rd Class
+0,1,71.0,0,0,34.6542,True,False,False,3,11.551400000000001,1,3.57386695198272,Senior,Did Not Survive,1st Class
+1,1,23.0,0,1,63.3583,True,False,False,3,21.119433333333333,2,4.164465907853638,Adult,Survived,1st Class
+1,2,34.0,0,1,23.0,False,False,True,2,11.5,2,3.1780538303479458,Adult,Survived,2nd Class
+0,2,34.0,1,0,26.0,True,False,True,2,13.0,2,3.295836866004329,Adult,Did Not Survive,2nd Class
+0,3,28.0,0,0,7.8958,False,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+0,1,21.0,0,1,77.2875,True,False,True,3,25.7625,2,4.360387947851531,Adult,Did Not Survive,1st Class
+0,3,33.0,0,0,8.6542,True,False,True,1,8.6542,1,2.267393053825037,Adult,Did Not Survive,3rd Class
+0,3,37.0,2,0,7.925,True,False,True,1,7.925,3,2.188856327665703,Middle-Aged,Did Not Survive,3rd Class
+1,3,21.0,0,0,7.65,False,False,True,1,7.65,1,2.157559320943788,Adult,Survived,3rd Class
+1,3,28.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Adult,Survived,3rd Class
+0,3,38.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Middle-Aged,Did Not Survive,3rd Class
+1,3,28.0,1,0,24.15,False,True,False,1,24.15,2,3.224857896545748,Adult,Survived,3rd Class
+0,1,47.0,0,0,52.0,True,False,True,3,17.333333333333332,1,3.970291913552122,Middle-Aged,Did Not Survive,1st Class
+0,3,14.5,1,0,14.4542,False,False,False,1,14.4542,2,2.737880811060884,Youth,Did Not Survive,3rd Class
+0,3,22.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,3,20.0,1,0,9.825,False,False,True,1,9.825,2,2.3818582738885534,Adult,Did Not Survive,3rd Class
+0,3,17.0,0,0,14.4583,False,False,False,1,14.4583,1,2.738146075922933,Youth,Did Not Survive,3rd Class
+0,3,21.0,0,0,7.925,True,False,True,1,7.925,1,2.188856327665703,Adult,Did Not Survive,3rd Class
+0,3,70.5,0,0,7.75,True,True,False,1,7.75,1,2.169053700369523,Senior,Did Not Survive,3rd Class
+0,2,29.0,1,0,21.0,True,False,True,2,10.5,2,3.091042453358316,Adult,Did Not Survive,2nd Class
+0,1,24.0,0,1,247.5208,True,False,False,3,82.50693333333334,2,5.515526544247129,Adult,Did Not Survive,1st Class
+0,3,2.0,4,2,31.275,False,False,True,1,31.275,7,3.4742929367327062,Child,Did Not Survive,3rd Class
+0,2,21.0,2,0,73.5,True,False,True,2,36.75,3,4.310799125385514,Adult,Did Not Survive,2nd Class
+0,2,32.5,1,0,30.0708,True,False,False,2,15.0354,2,3.436268471383741,Adult,Did Not Survive,2nd Class
+1,2,32.5,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Adult,Survived,2nd Class
+0,1,54.0,0,1,77.2875,True,False,True,3,25.7625,2,4.360387947851531,Middle-Aged,Did Not Survive,1st Class
+1,3,12.0,1,0,11.2417,True,False,False,1,11.2417,2,2.5048481563289,Child,Survived,3rd Class
+0,3,28.0,0,0,7.75,True,True,False,1,7.75,1,2.169053700369523,Adult,Did Not Survive,3rd Class
+1,3,24.0,0,0,7.1417,True,False,True,1,7.1417,1,2.0969990034181696,Adult,Survived,3rd Class
+1,3,28.0,1,1,22.3583,False,False,False,1,22.3583,3,3.1509523813392697,Adult,Survived,3rd Class
+0,3,45.0,0,0,6.975,True,False,True,1,6.975,1,2.076311648670908,Middle-Aged,Did Not Survive,3rd Class
+0,3,33.0,0,0,7.8958,True,False,False,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+0,3,20.0,0,0,7.05,True,False,True,1,7.05,1,2.085672091430472,Adult,Did Not Survive,3rd Class
+0,3,47.0,1,0,14.5,False,False,True,1,14.5,2,2.740840023925201,Middle-Aged,Did Not Survive,3rd Class
+0,2,25.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Did Not Survive,2nd Class
+0,2,23.0,0,0,15.0458,True,False,False,2,7.5229,1,2.775447133088262,Adult,Did Not Survive,2nd Class
+1,1,19.0,0,2,26.2833,False,False,True,3,8.7611,3,3.3062747934011893,Adult,Survived,1st Class
+0,1,37.0,1,0,53.1,True,False,True,3,17.7,2,3.9908341858524357,Middle-Aged,Did Not Survive,1st Class
+0,3,16.0,0,0,9.2167,True,False,True,1,9.2167,1,2.3240236363515288,Youth,Did Not Survive,3rd Class
+0,1,24.0,0,0,79.2,True,False,False,3,26.400000000000002,1,4.384523514872469,Adult,Did Not Survive,1st Class
+0,3,28.0,0,2,15.2458,False,False,False,1,15.2458,3,2.7878344138303452,Adult,Did Not Survive,3rd Class
+1,3,22.0,0,0,7.75,False,False,True,1,7.75,1,2.169053700369523,Adult,Survived,3rd Class
+1,3,24.0,1,0,15.85,False,False,True,1,15.85,2,2.8243506567983707,Adult,Survived,3rd Class
+0,3,19.0,0,0,6.75,True,True,False,1,6.75,1,2.0476928433652555,Adult,Did Not Survive,3rd Class
+0,2,18.0,0,0,11.5,True,False,True,2,5.75,1,2.5257286443082556,Youth,Did Not Survive,2nd Class
+0,2,19.0,1,1,36.75,True,False,True,2,18.375,3,3.6309854756950335,Adult,Did Not Survive,2nd Class
+1,3,27.0,0,0,7.7958,True,False,True,1,7.7958,1,2.174274334826008,Adult,Survived,3rd Class
+0,3,9.0,2,2,34.375,False,False,True,1,34.375,5,3.5660053559634015,Child,Did Not Survive,3rd Class
+0,2,36.5,0,2,26.0,True,False,True,2,13.0,3,3.295836866004329,Middle-Aged,Did Not Survive,2nd Class
+0,2,42.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Did Not Survive,2nd Class
+0,2,51.0,0,0,12.525,True,False,True,2,6.2625,1,2.6045398247325453,Middle-Aged,Did Not Survive,2nd Class
+1,1,22.0,1,0,66.6,False,False,True,3,22.2,2,4.213607983048918,Adult,Survived,1st Class
+0,3,55.5,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Middle-Aged,Did Not Survive,3rd Class
+0,3,40.5,0,2,14.5,True,False,True,1,14.5,3,2.740840023925201,Middle-Aged,Did Not Survive,3rd Class
+0,3,28.0,0,0,7.3125,True,False,True,1,7.3125,1,2.1177604059819726,Adult,Did Not Survive,3rd Class
+0,1,51.0,0,1,61.3792,True,False,False,3,20.459733333333332,2,4.133231886474144,Middle-Aged,Did Not Survive,1st Class
+1,3,16.0,0,0,7.7333,False,True,False,1,7.7333,1,2.167143305297764,Youth,Survived,3rd Class
+0,3,30.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,3,28.0,0,0,8.6625,True,False,True,1,8.6625,1,2.2682524139135403,Adult,Did Not Survive,3rd Class
+0,3,28.0,8,2,69.55,True,False,True,1,69.55,11,4.256321678298823,Adult,Did Not Survive,3rd Class
+0,3,44.0,0,1,16.1,True,False,True,1,16.1,2,2.8390784635086144,Middle-Aged,Did Not Survive,3rd Class
+1,2,40.0,0,0,15.75,False,False,True,2,7.875,1,2.8183982582710754,Middle-Aged,Survived,2nd Class
+0,3,26.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Adult,Did Not Survive,3rd Class
+0,3,17.0,0,0,8.6625,True,False,True,1,8.6625,1,2.2682524139135403,Youth,Did Not Survive,3rd Class
+0,3,1.0,4,1,39.6875,True,False,True,1,39.6875,6,3.705920919968788,Child,Did Not Survive,3rd Class
+1,3,9.0,0,2,20.525,True,False,True,1,20.525,3,3.0692150503137943,Child,Survived,3rd Class
+1,1,28.0,0,1,55.0,False,False,True,3,18.333333333333332,2,4.02535169073515,Adult,Survived,1st Class
+0,3,45.0,1,4,27.9,False,False,True,1,27.9,6,3.3638415951183864,Middle-Aged,Did Not Survive,3rd Class
+0,1,28.0,0,0,25.925,True,False,True,3,8.641666666666667,1,3.2930552230424524,Adult,Did Not Survive,1st Class
+0,3,28.0,0,0,56.4958,True,False,True,1,56.4958,1,4.051711901657239,Adult,Did Not Survive,3rd Class
+0,1,61.0,0,0,33.5,True,False,True,3,11.166666666666666,1,3.5409593240373143,Senior,Did Not Survive,1st Class
+0,3,4.0,4,1,29.125,True,True,False,1,29.125,6,3.405355391810819,Child,Did Not Survive,3rd Class
+1,3,1.0,1,1,11.1333,False,False,True,1,11.1333,3,2.4959537387180646,Child,Survived,3rd Class
+0,1,56.0,0,0,30.6958,True,False,False,3,10.231933333333332,1,3.4561841799918147,Middle-Aged,Did Not Survive,1st Class
+0,3,18.0,1,1,7.8542,True,False,True,1,7.8542,3,2.180891922715322,Youth,Did Not Survive,3rd Class
+0,3,28.0,3,1,25.4667,True,False,True,1,25.4667,5,3.275887339030031,Adult,Did Not Survive,3rd Class
+0,1,50.0,0,0,28.7125,False,False,False,3,9.570833333333333,1,3.391567832686312,Middle-Aged,Did Not Survive,1st Class
+0,2,30.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Did Not Survive,2nd Class
+0,3,36.0,0,0,0.0,True,False,True,1,0.0,1,0.0,Middle-Aged,Did Not Survive,3rd Class
+0,3,28.0,8,2,69.55,False,False,True,1,69.55,11,4.256321678298823,Adult,Did Not Survive,3rd Class
+0,2,28.0,0,0,15.05,True,False,False,2,7.525,1,2.775708849576025,Adult,Did Not Survive,2nd Class
+0,3,9.0,4,2,31.3875,True,False,True,1,31.3875,7,3.4777725458882283,Child,Did Not Survive,3rd Class
+1,2,1.0,2,1,39.0,True,False,True,2,19.5,4,3.6888794541139363,Child,Survived,2nd Class
+1,3,4.0,0,2,22.025,False,False,True,1,22.025,3,3.1365805821413706,Child,Survived,3rd Class
+0,1,28.0,0,0,50.0,True,False,True,3,16.666666666666668,1,3.9318256327243257,Adult,Did Not Survive,1st Class
+1,3,28.0,1,0,15.5,False,True,False,1,15.5,2,2.803360380906535,Adult,Survived,3rd Class
+1,1,45.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Middle-Aged,Survived,1st Class
+0,3,40.0,1,1,15.5,True,True,False,1,15.5,3,2.803360380906535,Middle-Aged,Did Not Survive,3rd Class
+0,3,36.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Middle-Aged,Did Not Survive,3rd Class
+1,2,32.0,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Adult,Survived,2nd Class
+0,2,19.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Did Not Survive,2nd Class
+1,3,19.0,1,0,7.8542,False,False,True,1,7.8542,2,2.180891922715322,Adult,Survived,3rd Class
+1,2,3.0,1,1,26.0,True,False,True,2,13.0,3,3.295836866004329,Child,Survived,2nd Class
+1,1,44.0,0,0,27.7208,False,False,False,3,9.240266666666667,1,3.357621598945279,Middle-Aged,Survived,1st Class
+1,1,58.0,0,0,146.5208,False,False,False,3,48.84026666666667,1,4.993969182787072,Middle-Aged,Survived,1st Class
+0,3,42.0,0,1,8.4042,True,False,True,1,8.4042,2,2.241156397997397,Middle-Aged,Did Not Survive,3rd Class
+0,2,24.0,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Adult,Did Not Survive,2nd Class
+0,3,28.0,0,0,9.5,True,False,True,1,9.5,1,2.3513752571634776,Adult,Did Not Survive,3rd Class
+0,3,34.0,0,0,6.4958,True,False,True,1,6.4958,1,2.0143428636837015,Adult,Did Not Survive,3rd Class
+0,3,45.5,0,0,7.225,True,False,False,1,7.225,1,2.1071782966514356,Middle-Aged,Did Not Survive,3rd Class
+1,3,18.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Youth,Survived,3rd Class
+0,3,2.0,0,1,10.4625,False,False,True,1,10.4625,2,2.4390808375825834,Child,Did Not Survive,3rd Class
+0,3,32.0,1,0,15.85,True,False,True,1,15.85,2,2.8243506567983707,Adult,Did Not Survive,3rd Class
+1,3,26.0,0,0,18.7875,True,False,False,1,18.7875,1,2.9850504252071306,Adult,Survived,3rd Class
+1,3,16.0,0,0,7.75,False,True,False,1,7.75,1,2.169053700369523,Youth,Survived,3rd Class
+1,1,40.0,0,0,31.0,True,False,False,3,10.333333333333334,1,3.4657359027997265,Middle-Aged,Survived,1st Class
+0,3,24.0,0,0,7.05,True,False,True,1,7.05,1,2.085672091430472,Adult,Did Not Survive,3rd Class
+1,2,35.0,0,0,21.0,False,False,True,2,10.5,1,3.091042453358316,Adult,Survived,2nd Class
+0,3,22.0,0,0,7.25,True,False,True,1,7.25,1,2.1102132003465894,Adult,Did Not Survive,3rd Class
+0,3,28.0,1,0,7.75,True,True,False,1,7.75,2,2.169053700369523,Adult,Did Not Survive,3rd Class
+1,1,31.0,1,0,113.275,False,False,False,3,37.75833333333333,2,4.738607824217808,Adult,Survived,1st Class
+1,3,27.0,0,0,7.925,False,False,True,1,7.925,1,2.188856327665703,Adult,Survived,3rd Class
+0,2,42.0,1,0,27.0,True,False,True,2,13.5,2,3.332204510175204,Middle-Aged,Did Not Survive,2nd Class
+1,1,32.0,0,0,76.2917,False,False,False,3,25.430566666666667,1,4.347586575960343,Adult,Survived,1st Class
+0,2,30.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Did Not Survive,2nd Class
+1,3,16.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Youth,Survived,3rd Class
+0,2,27.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Did Not Survive,2nd Class
+0,3,51.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Middle-Aged,Did Not Survive,3rd Class
+1,1,38.0,1,0,90.0,True,False,True,3,30.0,2,4.51085950651685,Middle-Aged,Survived,1st Class
+0,3,22.0,0,0,9.35,True,False,True,1,9.35,1,2.336986519711378,Adult,Did Not Survive,3rd Class
+1,2,19.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Survived,2nd Class
+0,3,20.5,0,0,7.25,True,False,True,1,7.25,1,2.1102132003465894,Adult,Did Not Survive,3rd Class
+0,2,18.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Youth,Did Not Survive,2nd Class
+0,3,28.0,3,1,25.4667,False,False,True,1,25.4667,5,3.275887339030031,Adult,Did Not Survive,3rd Class
+1,1,35.0,1,0,83.475,False,False,True,3,27.825,2,4.436455632600354,Adult,Survived,1st Class
+0,3,29.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Adult,Did Not Survive,3rd Class
+0,2,59.0,0,0,13.5,True,False,True,2,6.75,1,2.6741486494265287,Middle-Aged,Did Not Survive,2nd Class
+1,3,5.0,4,2,31.3875,False,False,True,1,31.3875,7,3.4777725458882283,Child,Survived,3rd Class
+0,2,24.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Did Not Survive,2nd Class
+0,3,28.0,0,0,7.55,False,False,True,1,7.55,1,2.145931282948669,Adult,Did Not Survive,3rd Class
+0,2,44.0,1,0,26.0,True,False,True,2,13.0,2,3.295836866004329,Middle-Aged,Did Not Survive,2nd Class
+1,2,8.0,0,2,26.25,False,False,True,2,13.125,3,3.305053521109253,Child,Survived,2nd Class
+0,2,19.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Did Not Survive,2nd Class
+0,2,33.0,0,0,12.275,True,False,True,2,6.1375,1,2.5858825671280026,Adult,Did Not Survive,2nd Class
+0,3,28.0,1,0,14.4542,False,False,False,1,14.4542,2,2.737880811060884,Adult,Did Not Survive,3rd Class
+0,2,29.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Did Not Survive,2nd Class
+0,3,22.0,0,0,7.125,True,False,True,1,7.125,1,2.094945728215801,Adult,Did Not Survive,3rd Class
+0,3,30.0,0,0,7.225,True,False,False,1,7.225,1,2.1071782966514356,Adult,Did Not Survive,3rd Class
+0,1,44.0,2,0,90.0,True,True,False,3,30.0,3,4.51085950651685,Middle-Aged,Did Not Survive,1st Class
+0,3,25.0,0,0,7.775,False,False,True,1,7.775,1,2.1719067693519296,Adult,Did Not Survive,3rd Class
+1,2,24.0,0,2,14.5,False,False,True,2,7.25,3,2.740840023925201,Adult,Survived,2nd Class
+1,1,37.0,1,1,52.5542,True,False,True,3,17.518066666666666,3,3.9806942251907276,Middle-Aged,Survived,1st Class
+0,2,54.0,1,0,26.0,True,False,True,2,13.0,2,3.295836866004329,Middle-Aged,Did Not Survive,2nd Class
+0,3,28.0,0,0,7.25,True,False,True,1,7.25,1,2.1102132003465894,Adult,Did Not Survive,3rd Class
+0,3,29.0,1,1,10.4625,False,False,True,1,10.4625,3,2.4390808375825834,Adult,Did Not Survive,3rd Class
+0,1,62.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Senior,Did Not Survive,1st Class
+0,3,30.0,1,0,16.1,True,False,True,1,16.1,2,2.8390784635086144,Adult,Did Not Survive,3rd Class
+0,3,41.0,0,2,20.2125,False,False,True,1,20.2125,3,3.0545906305603445,Middle-Aged,Did Not Survive,3rd Class
+1,3,29.0,0,2,15.2458,False,False,False,1,15.2458,3,2.7878344138303452,Adult,Survived,3rd Class
+1,1,28.0,0,0,79.2,False,False,False,3,26.400000000000002,1,4.384523514872469,Adult,Survived,1st Class
+1,1,30.0,0,0,86.5,False,False,True,3,28.833333333333332,1,4.471638793363569,Adult,Survived,1st Class
+1,1,35.0,0,0,262.375,False,False,False,3,87.45833333333333,1,5.5735788721243535,Adult,Survived,1st Class
+1,2,50.0,0,1,26.0,False,False,True,2,13.0,2,3.295836866004329,Middle-Aged,Survived,2nd Class
+1,3,3.0,4,2,31.3875,True,False,True,1,31.3875,7,3.4777725458882283,Child,Survived,3rd Class
+0,1,52.0,1,1,79.65,True,False,True,3,26.55,3,4.390118804571218,Middle-Aged,Did Not Survive,1st Class
+0,1,40.0,0,0,0.0,True,False,True,3,0.0,1,0.0,Middle-Aged,Did Not Survive,1st Class
+0,3,28.0,0,0,7.75,False,True,False,1,7.75,1,2.169053700369523,Adult,Did Not Survive,3rd Class
+0,2,36.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Middle-Aged,Did Not Survive,2nd Class
+0,3,16.0,4,1,39.6875,True,False,True,1,39.6875,6,3.705920919968788,Youth,Did Not Survive,3rd Class
+1,3,25.0,1,0,7.775,True,False,True,1,7.775,2,2.1719067693519296,Adult,Survived,3rd Class
+1,1,58.0,0,1,153.4625,False,False,True,3,51.15416666666667,2,5.039951348430309,Middle-Aged,Survived,1st Class
+1,1,35.0,0,0,135.6333,False,False,True,3,45.211099999999995,1,4.91730069488021,Adult,Survived,1st Class
+0,1,28.0,0,0,31.0,True,False,True,3,10.333333333333334,1,3.4657359027997265,Adult,Did Not Survive,1st Class
+1,3,25.0,0,0,0.0,True,False,True,1,0.0,1,0.0,Adult,Survived,3rd Class
+1,2,41.0,0,1,19.5,False,False,True,2,9.75,2,3.0204248861443626,Middle-Aged,Survived,2nd Class
+0,1,37.0,0,1,29.7,True,False,False,3,9.9,2,3.4242626545931514,Middle-Aged,Did Not Survive,1st Class
+1,1,63.0,1,0,77.9583,False,False,True,3,25.986099999999997,2,4.368919865004903,Senior,Survived,1st Class
+0,3,45.0,0,0,7.75,False,False,True,1,7.75,1,2.169053700369523,Middle-Aged,Did Not Survive,3rd Class
+0,2,28.0,0,0,0.0,True,False,True,2,0.0,1,0.0,Adult,Did Not Survive,2nd Class
+0,3,7.0,4,1,29.125,True,True,False,1,29.125,6,3.405355391810819,Child,Did Not Survive,3rd Class
+1,3,35.0,1,1,20.25,False,False,True,1,20.25,3,3.056356895370426,Adult,Survived,3rd Class
+0,3,65.0,0,0,7.75,True,True,False,1,7.75,1,2.169053700369523,Senior,Did Not Survive,3rd Class
+0,3,28.0,0,0,7.8542,True,False,True,1,7.8542,1,2.180891922715322,Adult,Did Not Survive,3rd Class
+0,3,16.0,0,0,9.5,True,False,True,1,9.5,1,2.3513752571634776,Youth,Did Not Survive,3rd Class
+1,3,19.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Survived,3rd Class
+0,1,28.0,0,0,26.0,True,False,True,3,8.666666666666666,1,3.295836866004329,Adult,Did Not Survive,1st Class
+0,3,33.0,0,0,8.6625,True,False,False,1,8.6625,1,2.2682524139135403,Adult,Did Not Survive,3rd Class
+1,3,30.0,0,0,9.5,True,False,True,1,9.5,1,2.3513752571634776,Adult,Survived,3rd Class
+0,3,22.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+1,2,42.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Survived,2nd Class
+1,3,22.0,0,0,7.75,False,True,False,1,7.75,1,2.169053700369523,Adult,Survived,3rd Class
+1,1,26.0,0,0,78.85,False,False,True,3,26.28333333333333,1,4.380149874661021,Adult,Survived,1st Class
+1,1,19.0,1,0,91.0792,False,False,False,3,30.359733333333335,2,4.5226490762785785,Adult,Survived,1st Class
+0,2,36.0,0,0,12.875,True,False,False,2,6.4375,1,2.630088659632498,Middle-Aged,Did Not Survive,2nd Class
+0,3,24.0,0,0,8.85,False,False,True,1,8.85,1,2.2874714551839976,Adult,Did Not Survive,3rd Class
+0,3,24.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+0,3,23.5,0,0,7.2292,True,False,False,1,7.2292,1,2.1076888046179385,Adult,Did Not Survive,3rd Class
+0,1,2.0,1,2,151.55,False,False,True,3,50.51666666666667,4,5.027492411162679,Child,Did Not Survive,1st Class
+1,1,28.0,0,0,30.5,True,False,True,3,10.166666666666666,1,3.449987545831587,Adult,Survived,1st Class
+1,1,50.0,0,1,247.5208,False,False,False,3,82.50693333333334,2,5.515526544247129,Middle-Aged,Survived,1st Class
+1,3,28.0,2,0,23.25,True,True,False,1,23.25,3,3.188416617383492,Adult,Survived,3rd Class
+0,3,19.0,0,0,0.0,True,False,True,1,0.0,1,0.0,Adult,Did Not Survive,3rd Class
+1,2,28.0,0,0,12.35,False,True,False,2,6.175,1,2.5915163848462583,Adult,Survived,2nd Class
+1,1,0.92,1,2,151.55,True,False,True,3,50.51666666666667,4,5.027492411162679,Child,Survived,1st Class
+1,1,28.0,0,0,110.8833,False,False,False,3,36.9611,1,4.717456363787216,Adult,Survived,1st Class
+1,1,17.0,1,0,108.9,False,False,False,3,36.300000000000004,2,4.699570861409576,Youth,Survived,1st Class
+0,2,30.0,1,0,24.0,True,False,False,2,12.0,2,3.2188758248682006,Adult,Did Not Survive,2nd Class
+1,1,30.0,0,0,56.9292,False,False,False,3,18.9764,1,4.0592215752427645,Adult,Survived,1st Class
+1,1,24.0,0,0,83.1583,False,False,False,3,27.71943333333333,1,4.432699549165613,Adult,Survived,1st Class
+1,1,18.0,2,2,262.375,False,False,False,3,87.45833333333333,5,5.5735788721243535,Youth,Survived,1st Class
+0,2,26.0,1,1,26.0,False,False,True,2,13.0,3,3.295836866004329,Adult,Did Not Survive,2nd Class
+0,2,43.0,1,1,26.25,True,False,True,2,13.125,3,3.305053521109253,Middle-Aged,Did Not Survive,2nd Class
+1,3,26.0,0,0,7.8542,False,False,True,1,7.8542,1,2.180891922715322,Adult,Survived,3rd Class
+1,2,24.0,1,0,26.0,False,False,True,2,13.0,2,3.295836866004329,Adult,Survived,2nd Class
+0,2,54.0,0,0,14.0,True,False,True,2,7.0,1,2.70805020110221,Middle-Aged,Did Not Survive,2nd Class
+1,1,31.0,0,2,164.8667,False,False,True,3,54.95556666666667,3,5.11118445372147,Adult,Survived,1st Class
+1,1,40.0,1,1,134.5,False,False,False,3,44.833333333333336,3,4.908971640319756,Middle-Aged,Survived,1st Class
+0,3,27.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+1,2,30.0,0,0,12.35,False,True,False,2,6.175,1,2.5915163848462583,Adult,Survived,2nd Class
+1,2,22.0,1,1,29.0,False,False,True,2,14.5,3,3.4011973816621555,Adult,Survived,2nd Class
+1,1,36.0,0,0,135.6333,False,False,False,3,45.211099999999995,1,4.91730069488021,Middle-Aged,Survived,1st Class
+0,3,61.0,0,0,6.2375,True,False,True,1,6.2375,1,1.9792758428991135,Senior,Did Not Survive,3rd Class
+1,2,36.0,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Survived,2nd Class
+1,3,31.0,1,1,20.525,False,False,True,1,20.525,3,3.0692150503137943,Adult,Survived,3rd Class
+1,1,16.0,0,1,57.9792,False,False,False,3,19.3264,2,4.077184839375167,Youth,Survived,1st Class
+1,3,28.0,2,0,23.25,False,True,False,1,23.25,3,3.188416617383492,Adult,Survived,3rd Class
+0,1,45.5,0,0,28.5,True,False,True,3,9.5,1,3.3843902633457743,Middle-Aged,Did Not Survive,1st Class
+0,1,38.0,0,1,153.4625,True,False,True,3,51.15416666666667,2,5.039951348430309,Middle-Aged,Did Not Survive,1st Class
+0,3,16.0,2,0,18.0,True,False,True,1,18.0,3,2.9444389791664403,Youth,Did Not Survive,3rd Class
+1,1,28.0,1,0,133.65,False,False,True,3,44.550000000000004,2,4.902678819257608,Adult,Survived,1st Class
+0,1,29.0,1,0,66.6,True,False,True,3,22.2,2,4.213607983048918,Adult,Did Not Survive,1st Class
+1,1,41.0,0,0,134.5,False,False,False,3,44.833333333333336,1,4.908971640319756,Middle-Aged,Survived,1st Class
+1,3,45.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Middle-Aged,Survived,3rd Class
+0,1,45.0,0,0,35.5,True,False,True,3,11.833333333333334,1,3.597312260588446,Middle-Aged,Did Not Survive,1st Class
+1,2,2.0,1,1,26.0,True,False,True,2,13.0,3,3.295836866004329,Child,Survived,2nd Class
+1,1,24.0,3,2,262.375,False,False,True,3,87.45833333333333,6,5.5735788721243535,Adult,Survived,1st Class
+0,2,28.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Did Not Survive,2nd Class
+0,2,36.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Did Not Survive,2nd Class
+1,2,24.0,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Adult,Survived,2nd Class
+1,2,40.0,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Survived,2nd Class
+1,3,28.0,1,0,16.1,False,False,True,1,16.1,2,2.8390784635086144,Adult,Survived,3rd Class
+1,3,3.0,1,1,15.9,True,False,True,1,15.9,3,2.827313621929028,Child,Survived,3rd Class
+0,3,42.0,0,0,8.6625,True,False,True,1,8.6625,1,2.2682524139135403,Middle-Aged,Did Not Survive,3rd Class
+0,3,23.0,0,0,9.225,True,False,True,1,9.225,1,2.3248357019288655,Adult,Did Not Survive,3rd Class
+0,1,28.0,0,0,35.0,True,False,True,3,11.666666666666666,1,3.58351893845611,Adult,Did Not Survive,1st Class
+0,3,15.0,1,1,7.2292,True,False,False,1,7.2292,3,2.1076888046179385,Youth,Did Not Survive,3rd Class
+0,3,25.0,1,0,17.8,True,False,True,1,17.8,2,2.9338568698359033,Adult,Did Not Survive,3rd Class
+1,1,22.0,0,1,55.0,False,False,True,3,18.333333333333332,2,4.02535169073515,Adult,Survived,1st Class
+0,2,38.0,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Did Not Survive,2nd Class
+0,3,40.0,1,4,27.9,True,False,True,1,27.9,6,3.3638415951183864,Middle-Aged,Did Not Survive,3rd Class
+0,2,29.0,1,0,27.7208,True,False,False,2,13.8604,2,3.357621598945279,Adult,Did Not Survive,2nd Class
+0,3,45.0,0,1,14.4542,False,False,False,1,14.4542,2,2.737880811060884,Middle-Aged,Did Not Survive,3rd Class
+0,3,35.0,0,0,7.05,True,False,True,1,7.05,1,2.085672091430472,Adult,Did Not Survive,3rd Class
+0,3,30.0,0,0,7.25,True,False,True,1,7.25,1,2.1102132003465894,Adult,Did Not Survive,3rd Class
+1,1,60.0,1,0,75.25,False,False,False,3,25.083333333333332,2,4.334017415487521,Middle-Aged,Survived,1st Class
+1,3,28.0,0,0,7.2292,False,False,False,1,7.2292,1,2.1076888046179385,Adult,Survived,3rd Class
+1,1,24.0,0,0,69.3,False,False,False,3,23.099999999999998,1,4.252771798816619,Adult,Survived,1st Class
+1,1,25.0,1,0,55.4417,True,False,False,3,18.480566666666665,2,4.0332082470129285,Adult,Survived,1st Class
+0,3,18.0,1,0,6.4958,True,False,True,1,6.4958,2,2.0143428636837015,Youth,Did Not Survive,3rd Class
+0,3,19.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,1,22.0,0,0,135.6333,True,False,False,3,45.211099999999995,1,4.91730069488021,Adult,Did Not Survive,1st Class
+0,3,3.0,3,1,21.075,False,False,True,1,21.075,5,3.094445746490024,Child,Did Not Survive,3rd Class
+1,1,28.0,1,0,82.1708,False,False,False,3,27.390266666666665,2,4.420896324687287,Adult,Survived,1st Class
+1,3,22.0,0,0,7.25,False,False,True,1,7.25,1,2.1102132003465894,Adult,Survived,3rd Class
+0,1,27.0,0,2,211.5,True,False,False,3,70.5,3,5.358941988364472,Adult,Did Not Survive,1st Class
+0,3,20.0,0,0,4.0125,True,False,False,1,4.0125,1,1.6119347926326877,Adult,Did Not Survive,3rd Class
+0,3,19.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Adult,Did Not Survive,3rd Class
+1,1,42.0,0,0,227.525,False,False,False,3,75.84166666666667,1,5.4316456135398825,Middle-Aged,Survived,1st Class
+1,3,1.0,0,2,15.7417,False,False,False,1,15.7417,3,2.817902613071225,Child,Survived,3rd Class
+0,3,32.0,0,0,7.925,True,False,True,1,7.925,1,2.188856327665703,Adult,Did Not Survive,3rd Class
+1,1,35.0,1,0,52.0,False,False,True,3,17.333333333333332,2,3.970291913552122,Adult,Survived,1st Class
+0,2,18.0,0,0,73.5,True,False,True,2,36.75,1,4.310799125385514,Youth,Did Not Survive,2nd Class
+0,3,1.0,5,2,46.9,True,False,True,1,46.9,8,3.8691155044168695,Child,Did Not Survive,3rd Class
+0,3,28.0,0,0,7.7292,True,True,False,1,7.7292,1,2.1666737276227077,Adult,Did Not Survive,3rd Class
+1,2,17.0,0,0,12.0,False,False,False,2,6.0,1,2.5649493574615367,Youth,Survived,2nd Class
+1,1,36.0,1,2,120.0,True,False,True,3,40.0,4,4.795790545596741,Middle-Aged,Survived,1st Class
+1,3,21.0,0,0,7.7958,True,False,True,1,7.7958,1,2.174274334826008,Adult,Survived,3rd Class
+0,3,28.0,2,0,7.925,True,False,True,1,7.925,3,2.188856327665703,Adult,Did Not Survive,3rd Class
+1,1,23.0,1,0,113.275,False,False,False,3,37.75833333333333,2,4.738607824217808,Adult,Survived,1st Class
+1,3,24.0,0,2,16.7,False,False,True,1,16.7,3,2.8735646395797834,Adult,Survived,3rd Class
+0,3,22.0,0,0,7.7958,True,False,True,1,7.7958,1,2.174274334826008,Adult,Did Not Survive,3rd Class
+0,3,31.0,0,0,7.8542,False,False,True,1,7.8542,1,2.180891922715322,Adult,Did Not Survive,3rd Class
+0,2,46.0,0,0,26.0,True,False,True,2,13.0,1,3.295836866004329,Middle-Aged,Did Not Survive,2nd Class
+0,2,23.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Did Not Survive,2nd Class
+1,2,28.0,0,0,12.65,False,False,True,2,6.325,1,2.613739521630969,Adult,Survived,2nd Class
+1,3,39.0,0,0,7.925,True,False,True,1,7.925,1,2.188856327665703,Middle-Aged,Survived,3rd Class
+0,3,26.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,3,21.0,1,0,9.825,False,False,True,1,9.825,2,2.3818582738885534,Adult,Did Not Survive,3rd Class
+0,3,28.0,1,0,15.85,True,False,True,1,15.85,2,2.8243506567983707,Adult,Did Not Survive,3rd Class
+0,3,20.0,0,0,8.6625,False,False,True,1,8.6625,1,2.2682524139135403,Adult,Did Not Survive,3rd Class
+0,2,34.0,1,0,21.0,True,False,True,2,10.5,2,3.091042453358316,Adult,Did Not Survive,2nd Class
+0,3,51.0,0,0,7.75,True,False,True,1,7.75,1,2.169053700369523,Middle-Aged,Did Not Survive,3rd Class
+1,2,3.0,1,1,18.75,True,False,True,2,9.375,3,2.9831534913471307,Child,Survived,2nd Class
+0,3,21.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Adult,Did Not Survive,3rd Class
+0,3,28.0,0,0,6.8583,True,True,False,1,6.8583,1,2.061570298060867,Adult,Did Not Survive,3rd Class
+1,1,33.0,1,0,90.0,False,True,False,3,30.0,2,4.51085950651685,Adult,Survived,1st Class
+1,3,44.0,0,0,7.925,True,False,True,1,7.925,1,2.188856327665703,Middle-Aged,Survived,3rd Class
+0,3,28.0,0,0,8.05,False,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+1,2,34.0,1,1,32.5,False,False,True,2,16.25,3,3.5115454388310208,Adult,Survived,2nd Class
+1,2,18.0,0,2,13.0,False,False,True,2,6.5,3,2.639057329615259,Youth,Survived,2nd Class
+0,3,10.0,0,2,24.15,False,False,True,1,24.15,3,3.224857896545748,Child,Did Not Survive,3rd Class
+0,3,21.0,0,0,7.7333,True,True,False,1,7.7333,1,2.167143305297764,Adult,Did Not Survive,3rd Class
+0,3,29.0,0,0,7.875,True,False,True,1,7.875,1,2.1832383353614793,Adult,Did Not Survive,3rd Class
+0,3,28.0,1,1,14.4,False,False,True,1,14.4,3,2.7343675094195836,Adult,Did Not Survive,3rd Class
+0,3,18.0,1,1,20.2125,True,False,True,1,20.2125,3,3.0545906305603445,Youth,Did Not Survive,3rd Class
+1,2,28.0,1,0,26.0,False,False,True,2,13.0,2,3.295836866004329,Adult,Survived,2nd Class
+1,2,19.0,0,0,26.0,False,False,True,2,13.0,1,3.295836866004329,Adult,Survived,2nd Class
+1,3,32.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Survived,3rd Class
+1,1,28.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Adult,Survived,1st Class
+1,2,42.0,1,0,26.0,False,False,True,2,13.0,2,3.295836866004329,Middle-Aged,Survived,2nd Class
+0,3,17.0,0,0,7.125,True,False,True,1,7.125,1,2.094945728215801,Youth,Did Not Survive,3rd Class
+0,1,50.0,1,0,55.9,True,False,True,3,18.633333333333333,2,4.041295341132285,Middle-Aged,Did Not Survive,1st Class
+1,1,14.0,1,2,120.0,False,False,True,3,40.0,4,4.795790545596741,Youth,Survived,1st Class
+0,3,21.0,2,2,34.375,False,False,True,1,34.375,5,3.5660053559634015,Adult,Did Not Survive,3rd Class
+1,2,24.0,2,3,18.75,False,False,True,2,9.375,6,2.9831534913471307,Adult,Survived,2nd Class
+0,1,64.0,1,4,262.375,True,False,True,3,87.45833333333333,6,5.5735788721243535,Senior,Did Not Survive,1st Class
+0,2,31.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Did Not Survive,2nd Class
+1,2,45.0,1,1,26.25,False,False,True,2,13.125,3,3.305053521109253,Middle-Aged,Survived,2nd Class
+0,3,20.0,0,0,9.5,True,False,True,1,9.5,1,2.3513752571634776,Adult,Did Not Survive,3rd Class
+0,3,25.0,1,0,7.775,True,False,True,1,7.775,2,2.1719067693519296,Adult,Did Not Survive,3rd Class
+1,2,28.0,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Adult,Survived,2nd Class
+1,3,28.0,0,0,8.1125,True,False,True,1,8.1125,1,2.2096470973347766,Adult,Survived,3rd Class
+1,1,4.0,0,2,81.8583,True,False,True,3,27.2861,3,4.417131919904876,Child,Survived,1st Class
+1,2,13.0,0,1,19.5,False,False,True,2,9.75,2,3.0204248861443626,Youth,Survived,2nd Class
+1,1,34.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Adult,Survived,1st Class
+1,3,5.0,2,1,19.2583,False,False,False,1,19.2583,4,3.0085645861193133,Child,Survived,3rd Class
+1,1,52.0,0,0,30.5,True,False,True,3,10.166666666666666,1,3.449987545831587,Middle-Aged,Survived,1st Class
+0,2,36.0,1,2,27.75,True,False,True,2,13.875,4,3.3586377672433594,Middle-Aged,Did Not Survive,2nd Class
+0,3,28.0,1,0,19.9667,True,False,True,1,19.9667,2,3.0429354648621407,Adult,Did Not Survive,3rd Class
+0,1,30.0,0,0,27.75,True,False,False,3,9.25,1,3.3586377672433594,Adult,Did Not Survive,1st Class
+1,1,49.0,1,0,89.1042,True,False,False,3,29.701400000000003,2,4.500966778400217,Middle-Aged,Survived,1st Class
+1,3,29.0,0,0,7.8958,True,False,False,1,7.8958,1,2.1855792552411137,Adult,Survived,3rd Class
+0,1,65.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Senior,Did Not Survive,1st Class
+1,1,28.0,1,0,51.8625,False,False,True,3,17.287499999999998,2,3.967694202798607,Adult,Survived,1st Class
+1,2,50.0,0,0,10.5,False,False,True,2,5.25,1,2.4423470353692043,Middle-Aged,Survived,2nd Class
+1,1,48.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Middle-Aged,Survived,1st Class
+0,3,34.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,1,47.0,0,0,38.5,True,False,True,3,12.833333333333334,1,3.676300671907076,Middle-Aged,Did Not Survive,1st Class
+0,2,48.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Did Not Survive,2nd Class
+0,3,38.0,0,0,7.05,True,False,True,1,7.05,1,2.085672091430472,Middle-Aged,Did Not Survive,3rd Class
+0,1,56.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Middle-Aged,Did Not Survive,1st Class
+0,3,28.0,0,0,7.725,True,True,False,1,7.725,1,2.1661924680884908,Adult,Did Not Survive,3rd Class
+1,3,0.75,2,1,19.2583,False,False,False,1,19.2583,4,3.0085645861193133,Child,Survived,3rd Class
+0,3,38.0,0,0,8.6625,True,False,True,1,8.6625,1,2.2682524139135403,Middle-Aged,Did Not Survive,3rd Class
+1,2,33.0,1,2,27.75,False,False,True,2,13.875,4,3.3586377672433594,Adult,Survived,2nd Class
+1,2,23.0,0,0,13.7917,False,False,False,2,6.89585,1,2.694066212646058,Adult,Survived,2nd Class
+0,3,22.0,0,0,9.8375,False,False,True,1,9.8375,1,2.3830123421066602,Adult,Did Not Survive,3rd Class
+0,1,28.0,0,0,52.0,True,False,True,3,17.333333333333332,1,3.970291913552122,Adult,Did Not Survive,1st Class
+0,3,29.0,1,0,7.0458,True,False,True,1,7.0458,2,2.0851502161468174,Adult,Did Not Survive,3rd Class
+0,3,22.0,0,0,7.5208,True,False,True,1,7.5208,1,2.142510233146819,Adult,Did Not Survive,3rd Class
+1,3,2.0,0,1,12.2875,False,False,True,1,12.2875,2,2.586823743668066,Child,Survived,3rd Class
+0,3,9.0,5,2,46.9,True,False,True,1,46.9,8,3.8691155044168695,Child,Did Not Survive,3rd Class
+0,3,50.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Middle-Aged,Did Not Survive,3rd Class
+1,3,63.0,0,0,9.5875,False,False,True,1,9.5875,1,2.3596740599781727,Senior,Survived,3rd Class
+1,1,25.0,1,0,91.0792,True,False,False,3,30.359733333333335,2,4.5226490762785785,Adult,Survived,1st Class
+1,1,35.0,1,0,90.0,False,False,True,3,30.0,2,4.51085950651685,Adult,Survived,1st Class
+0,1,58.0,0,0,29.7,True,False,False,3,9.9,1,3.4242626545931514,Middle-Aged,Did Not Survive,1st Class
+1,3,9.0,1,1,15.9,True,False,True,1,15.9,3,2.827313621929028,Child,Survived,3rd Class
+0,3,21.0,0,0,7.25,True,False,True,1,7.25,1,2.1102132003465894,Adult,Did Not Survive,3rd Class
+0,1,55.0,0,0,30.5,True,False,True,3,10.166666666666666,1,3.449987545831587,Middle-Aged,Did Not Survive,1st Class
+0,1,71.0,0,0,49.5042,True,False,False,3,16.5014,1,3.922056501139853,Senior,Did Not Survive,1st Class
+0,3,28.0,0,0,14.4583,True,False,False,1,14.4583,1,2.738146075922933,Adult,Did Not Survive,3rd Class
+1,1,54.0,1,0,78.2667,False,False,False,3,26.0889,2,4.37281811610993,Middle-Aged,Survived,1st Class
+0,3,28.0,0,0,15.1,True,False,True,1,15.1,1,2.7788192719904172,Adult,Did Not Survive,3rd Class
+0,1,25.0,1,2,151.55,False,False,True,3,50.51666666666667,4,5.027492411162679,Adult,Did Not Survive,1st Class
+0,3,24.0,0,0,7.7958,True,False,True,1,7.7958,1,2.174274334826008,Adult,Did Not Survive,3rd Class
+0,3,21.0,0,0,7.75,False,True,False,1,7.75,1,2.169053700369523,Adult,Did Not Survive,3rd Class
+0,3,28.0,0,0,7.6292,False,True,False,1,7.6292,1,2.155151800914312,Adult,Did Not Survive,3rd Class
+0,3,37.0,0,0,9.5875,False,False,True,1,9.5875,1,2.3596740599781727,Middle-Aged,Did Not Survive,3rd Class
+1,1,16.0,0,0,86.5,False,False,True,3,28.833333333333332,1,4.471638793363569,Youth,Survived,1st Class
+0,1,18.0,1,0,108.9,True,False,False,3,36.300000000000004,2,4.699570861409576,Youth,Did Not Survive,1st Class
+1,2,33.0,0,2,26.0,False,False,True,2,13.0,3,3.295836866004329,Adult,Survived,2nd Class
+0,3,28.0,0,0,22.525,True,False,True,1,22.525,1,3.1580636854714434,Adult,Did Not Survive,3rd Class
+1,3,26.0,0,0,56.4958,True,False,True,1,56.4958,1,4.051711901657239,Adult,Survived,3rd Class
+1,3,29.0,0,0,7.75,True,True,False,1,7.75,1,2.169053700369523,Adult,Survived,3rd Class
+1,1,36.0,0,0,26.2875,True,False,True,3,8.762500000000001,1,3.3064287218760624,Middle-Aged,Survived,1st Class
+1,1,54.0,1,0,59.4,False,False,False,3,19.8,2,4.100989104940769,Middle-Aged,Survived,1st Class
+0,3,24.0,0,0,7.4958,True,False,True,1,7.4958,1,2.139571923732859,Adult,Did Not Survive,3rd Class
+0,1,47.0,0,0,34.0208,True,False,True,3,11.340266666666666,1,3.5559421706858756,Middle-Aged,Did Not Survive,1st Class
+1,2,34.0,0,0,10.5,False,False,True,2,5.25,1,2.4423470353692043,Adult,Survived,2nd Class
+0,3,28.0,0,0,24.15,True,True,False,1,24.15,1,3.224857896545748,Adult,Did Not Survive,3rd Class
+1,2,36.0,1,0,26.0,False,False,True,2,13.0,2,3.295836866004329,Middle-Aged,Survived,2nd Class
+0,3,32.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+1,1,30.0,0,0,93.5,False,False,True,3,31.166666666666668,1,4.548599834499697,Adult,Survived,1st Class
+1,1,44.0,0,1,57.9792,False,False,False,3,19.3264,2,4.077184839375167,Middle-Aged,Survived,1st Class
+0,3,28.0,0,0,7.2292,True,False,False,1,7.2292,1,2.1076888046179385,Adult,Did Not Survive,3rd Class
+0,3,40.5,0,0,7.75,True,True,False,1,7.75,1,2.169053700369523,Middle-Aged,Did Not Survive,3rd Class
+0,1,28.0,0,0,221.7792,True,False,True,3,73.9264,1,5.406181146423973,Adult,Did Not Survive,1st Class
+0,3,39.0,0,0,7.925,True,False,True,1,7.925,1,2.188856327665703,Middle-Aged,Did Not Survive,3rd Class
+0,2,23.0,2,1,11.5,True,False,True,2,5.75,4,2.5257286443082556,Adult,Did Not Survive,2nd Class
+1,2,2.0,1,1,26.0,False,False,True,2,13.0,3,3.295836866004329,Child,Survived,2nd Class
+0,3,17.0,1,1,7.2292,True,False,False,1,7.2292,3,2.1076888046179385,Youth,Did Not Survive,3rd Class
+1,3,28.0,0,2,22.3583,False,False,False,1,22.3583,3,3.1509523813392697,Adult,Survived,3rd Class
+0,3,30.0,0,0,8.6625,False,False,True,1,8.6625,1,2.2682524139135403,Adult,Did Not Survive,3rd Class
+1,2,7.0,0,2,26.25,False,False,True,2,13.125,3,3.305053521109253,Child,Survived,2nd Class
+0,1,45.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Middle-Aged,Did Not Survive,1st Class
+1,1,30.0,0,0,106.425,False,False,False,3,35.475,1,4.676792929661059,Adult,Survived,1st Class
+0,3,28.0,0,0,14.5,True,False,True,1,14.5,1,2.740840023925201,Adult,Did Not Survive,3rd Class
+1,1,22.0,0,2,49.5,False,False,False,3,16.5,3,3.9219733362813143,Adult,Survived,1st Class
+1,1,36.0,0,2,71.0,False,False,True,3,23.666666666666668,3,4.276666119016055,Middle-Aged,Survived,1st Class
+0,3,9.0,4,2,31.275,False,False,True,1,31.275,7,3.4742929367327062,Child,Did Not Survive,3rd Class
+0,3,11.0,4,2,31.275,False,False,True,1,31.275,7,3.4742929367327062,Child,Did Not Survive,3rd Class
+1,2,32.0,1,0,26.0,True,False,True,2,13.0,2,3.295836866004329,Adult,Survived,2nd Class
+0,1,50.0,1,0,106.425,True,False,False,3,35.475,2,4.676792929661059,Middle-Aged,Did Not Survive,1st Class
+0,1,64.0,0,0,26.0,True,False,True,3,8.666666666666666,1,3.295836866004329,Senior,Did Not Survive,1st Class
+1,2,19.0,1,0,26.0,False,False,True,2,13.0,2,3.295836866004329,Adult,Survived,2nd Class
+1,2,28.0,0,0,13.8625,True,False,False,2,6.93125,1,2.6988412620169004,Adult,Survived,2nd Class
+0,3,33.0,1,1,20.525,True,False,True,1,20.525,3,3.0692150503137943,Adult,Did Not Survive,3rd Class
+1,2,8.0,1,1,36.75,True,False,True,2,18.375,3,3.6309854756950335,Child,Survived,2nd Class
+1,1,17.0,0,2,110.8833,True,False,False,3,36.9611,3,4.717456363787216,Youth,Survived,1st Class
+0,2,27.0,0,0,26.0,True,False,True,2,13.0,1,3.295836866004329,Adult,Did Not Survive,2nd Class
+0,3,28.0,0,0,7.8292,True,True,False,1,7.8292,1,2.17806441028492,Adult,Did Not Survive,3rd Class
+1,3,22.0,0,0,7.225,True,False,False,1,7.225,1,2.1071782966514356,Adult,Survived,3rd Class
+1,3,22.0,0,0,7.775,False,False,True,1,7.775,1,2.1719067693519296,Adult,Survived,3rd Class
+1,1,48.0,1,0,39.6,False,False,False,3,13.200000000000001,2,3.703768066607687,Middle-Aged,Survived,1st Class
+0,1,28.0,0,0,227.525,True,False,False,3,75.84166666666667,1,5.4316456135398825,Adult,Did Not Survive,1st Class
+1,1,39.0,1,1,79.65,False,False,True,3,26.55,3,4.390118804571218,Middle-Aged,Survived,1st Class
+1,3,36.0,1,0,17.4,False,False,True,1,17.4,2,2.91235066461494,Middle-Aged,Survived,3rd Class
+0,3,40.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Middle-Aged,Did Not Survive,3rd Class
+0,2,28.0,0,0,13.5,True,False,True,2,6.75,1,2.6741486494265287,Adult,Did Not Survive,2nd Class
+0,3,24.0,2,0,24.15,True,False,True,1,24.15,3,3.224857896545748,Adult,Did Not Survive,3rd Class
+0,3,19.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+0,3,29.0,0,4,21.075,False,False,True,1,21.075,5,3.094445746490024,Adult,Did Not Survive,3rd Class
+1,3,32.0,0,0,7.8542,True,False,True,1,7.8542,1,2.180891922715322,Adult,Survived,3rd Class
+1,2,62.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Senior,Survived,2nd Class
+1,1,53.0,2,0,51.4792,False,False,True,3,17.15973333333333,3,3.960416900617205,Middle-Aged,Survived,1st Class
+1,1,36.0,0,0,26.3875,True,False,True,3,8.795833333333333,1,3.3100867049215847,Middle-Aged,Survived,1st Class
+0,3,16.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Youth,Did Not Survive,3rd Class
+0,3,19.0,0,0,14.5,True,False,True,1,14.5,1,2.740840023925201,Adult,Did Not Survive,3rd Class
+1,2,34.0,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Adult,Survived,2nd Class
+1,1,39.0,1,0,55.9,False,False,True,3,18.633333333333333,2,4.041295341132285,Middle-Aged,Survived,1st Class
+0,3,28.0,1,0,14.4583,False,False,False,1,14.4583,2,2.738146075922933,Adult,Did Not Survive,3rd Class
+1,3,32.0,0,0,7.925,True,False,True,1,7.925,1,2.188856327665703,Adult,Survived,3rd Class
+1,2,25.0,1,1,30.0,False,False,True,2,15.0,3,3.4339872044851463,Adult,Survived,2nd Class
+1,1,39.0,1,1,110.8833,False,False,False,3,36.9611,3,4.717456363787216,Middle-Aged,Survived,1st Class
+0,2,54.0,0,0,26.0,True,False,True,2,13.0,1,3.295836866004329,Middle-Aged,Did Not Survive,2nd Class
+0,1,36.0,0,0,40.125,True,False,False,3,13.375,1,3.716616209085536,Middle-Aged,Did Not Survive,1st Class
+0,3,28.0,0,0,8.7125,True,False,False,1,8.7125,1,2.2734137156937657,Adult,Did Not Survive,3rd Class
+1,1,18.0,0,2,79.65,False,False,True,3,26.55,3,4.390118804571218,Youth,Survived,1st Class
+0,2,47.0,0,0,15.0,True,False,True,2,7.5,1,2.772588722239781,Middle-Aged,Did Not Survive,2nd Class
+1,1,60.0,1,1,79.2,True,False,False,3,26.400000000000002,3,4.384523514872469,Middle-Aged,Survived,1st Class
+0,3,35.0,0,0,7.125,True,False,True,1,7.125,1,2.094945728215801,Adult,Did Not Survive,3rd Class
+1,1,52.0,1,0,78.2667,False,False,False,3,26.0889,2,4.37281811610993,Middle-Aged,Survived,1st Class
+0,3,47.0,0,0,7.25,True,False,True,1,7.25,1,2.1102132003465894,Middle-Aged,Did Not Survive,3rd Class
+0,3,28.0,0,2,7.75,False,True,False,1,7.75,3,2.169053700369523,Adult,Did Not Survive,3rd Class
+0,2,37.0,1,0,26.0,True,False,True,2,13.0,2,3.295836866004329,Middle-Aged,Did Not Survive,2nd Class
+0,3,36.0,1,1,24.15,True,False,True,1,24.15,3,3.224857896545748,Middle-Aged,Did Not Survive,3rd Class
+1,2,28.0,0,0,33.0,False,False,True,2,16.5,1,3.5263605246161616,Adult,Survived,2nd Class
+0,3,49.0,0,0,0.0,True,False,True,1,0.0,1,0.0,Middle-Aged,Did Not Survive,3rd Class
+1,1,49.0,1,0,56.9292,True,False,False,3,18.9764,2,4.0592215752427645,Middle-Aged,Survived,1st Class
+1,2,24.0,2,1,27.0,False,False,True,2,13.5,4,3.332204510175204,Adult,Survived,2nd Class
+0,1,28.0,0,0,42.4,True,False,True,3,14.133333333333333,1,3.770459441106359,Adult,Did Not Survive,1st Class
+0,3,44.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Middle-Aged,Did Not Survive,3rd Class
+1,1,35.0,0,0,26.55,True,False,False,3,8.85,1,3.3160025355989236,Adult,Survived,1st Class
+0,3,36.0,1,0,15.55,True,False,True,1,15.55,2,2.806386101823072,Middle-Aged,Did Not Survive,3rd Class
+0,3,30.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+1,1,27.0,0,0,30.5,True,False,True,3,10.166666666666666,1,3.449987545831587,Adult,Survived,1st Class
+1,2,22.0,1,2,41.5792,False,False,False,2,20.7896,4,3.7513658711253766,Adult,Survived,2nd Class
+1,1,40.0,0,0,153.4625,False,False,True,3,51.15416666666667,1,5.039951348430309,Middle-Aged,Survived,1st Class
+0,3,39.0,1,5,31.275,False,False,True,1,31.275,7,3.4742929367327062,Middle-Aged,Did Not Survive,3rd Class
+0,3,28.0,0,0,7.05,True,False,True,1,7.05,1,2.085672091430472,Adult,Did Not Survive,3rd Class
+1,2,24.0,1,2,65.0,False,False,True,2,32.5,4,4.189654742026425,Adult,Survived,2nd Class
+0,3,34.0,1,1,14.4,True,False,True,1,14.4,3,2.7343675094195836,Adult,Did Not Survive,3rd Class
+0,3,26.0,1,0,16.1,False,False,True,1,16.1,2,2.8390784635086144,Adult,Did Not Survive,3rd Class
+1,2,4.0,2,1,39.0,False,False,True,2,19.5,4,3.6888794541139363,Child,Survived,2nd Class
+0,2,26.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Did Not Survive,2nd Class
+0,3,27.0,1,0,14.4542,True,False,False,1,14.4542,2,2.737880811060884,Adult,Did Not Survive,3rd Class
+1,1,42.0,1,0,52.5542,True,False,True,3,17.518066666666666,2,3.9806942251907276,Middle-Aged,Survived,1st Class
+1,3,20.0,1,1,15.7417,True,False,False,1,15.7417,3,2.817902613071225,Adult,Survived,3rd Class
+0,3,21.0,0,0,7.8542,True,False,True,1,7.8542,1,2.180891922715322,Adult,Did Not Survive,3rd Class
+0,3,21.0,0,0,16.1,True,False,True,1,16.1,1,2.8390784635086144,Adult,Did Not Survive,3rd Class
+0,1,61.0,0,0,32.3208,True,False,True,3,10.7736,1,3.5061818266142577,Senior,Did Not Survive,1st Class
+0,2,57.0,0,0,12.35,True,True,False,2,6.175,1,2.5915163848462583,Middle-Aged,Did Not Survive,2nd Class
+1,1,21.0,0,0,77.9583,False,False,True,3,25.986099999999997,1,4.368919865004903,Adult,Survived,1st Class
+0,3,26.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+0,3,28.0,0,0,7.7333,True,True,False,1,7.7333,1,2.167143305297764,Adult,Did Not Survive,3rd Class
+1,1,80.0,0,0,30.0,True,False,True,3,10.0,1,3.4339872044851463,Senior,Survived,1st Class
+0,3,51.0,0,0,7.0542,True,False,True,1,7.0542,1,2.086193694502369,Middle-Aged,Did Not Survive,3rd Class
+1,1,32.0,0,0,30.5,True,False,False,3,10.166666666666666,1,3.449987545831587,Adult,Survived,1st Class
+0,1,28.0,0,0,0.0,True,False,True,3,0.0,1,0.0,Adult,Did Not Survive,1st Class
+0,3,9.0,3,2,27.9,False,False,True,1,27.9,6,3.3638415951183864,Child,Did Not Survive,3rd Class
+0,2,31.0,1,1,26.25,True,False,True,2,13.125,3,3.305053521109253,Adult,Did Not Survive,2nd Class
+0,3,41.0,0,5,39.6875,False,False,True,1,39.6875,6,3.705920919968788,Middle-Aged,Did Not Survive,3rd Class
+0,3,28.0,1,0,16.1,True,False,True,1,16.1,2,2.8390784635086144,Adult,Did Not Survive,3rd Class
+0,3,2.0,3,2,27.9,False,False,True,1,27.9,6,3.3638415951183864,Child,Did Not Survive,3rd Class
+1,3,28.0,0,0,56.4958,True,False,True,1,56.4958,1,4.051711901657239,Adult,Survived,3rd Class
+1,1,48.0,1,0,76.7292,True,False,False,3,25.576400000000003,2,4.353230991152628,Middle-Aged,Survived,1st Class
+1,1,56.0,0,0,35.5,True,False,False,3,11.833333333333334,1,3.597312260588446,Middle-Aged,Survived,1st Class
+0,3,28.0,0,0,7.55,True,False,True,1,7.55,1,2.145931282948669,Adult,Did Not Survive,3rd Class
+1,3,23.0,0,0,7.55,False,False,True,1,7.55,1,2.145931282948669,Adult,Survived,3rd Class
+1,2,18.0,0,1,23.0,False,False,True,2,11.5,2,3.1780538303479458,Youth,Survived,2nd Class
+0,3,21.0,0,0,8.4333,True,False,True,1,8.4333,1,2.2442459824059346,Adult,Did Not Survive,3rd Class
+1,3,28.0,0,0,7.8292,False,True,False,1,7.8292,1,2.17806441028492,Adult,Survived,3rd Class
+0,3,18.0,0,0,6.75,False,True,False,1,6.75,1,2.0476928433652555,Youth,Did Not Survive,3rd Class
+0,2,24.0,2,0,73.5,True,False,True,2,36.75,3,4.310799125385514,Adult,Did Not Survive,2nd Class
+0,3,32.0,1,1,15.5,False,True,False,1,15.5,3,2.803360380906535,Adult,Did Not Survive,3rd Class
+0,2,23.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Did Not Survive,2nd Class
+0,1,58.0,0,2,113.275,True,False,False,3,37.75833333333333,3,4.738607824217808,Middle-Aged,Did Not Survive,1st Class
+1,1,50.0,2,0,133.65,True,False,True,3,44.550000000000004,3,4.902678819257608,Middle-Aged,Survived,1st Class
+0,3,40.0,0,0,7.225,True,False,False,1,7.225,1,2.1071782966514356,Middle-Aged,Did Not Survive,3rd Class
+0,1,47.0,0,0,25.5875,True,False,True,3,8.529166666666667,1,3.2804411805263554,Middle-Aged,Did Not Survive,1st Class
+0,3,36.0,0,0,7.4958,True,False,True,1,7.4958,1,2.139571923732859,Middle-Aged,Did Not Survive,3rd Class
+1,3,20.0,1,0,7.925,True,False,True,1,7.925,2,2.188856327665703,Adult,Survived,3rd Class
+0,2,32.0,2,0,73.5,True,False,True,2,36.75,3,4.310799125385514,Adult,Did Not Survive,2nd Class
+0,3,28.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Adult,Did Not Survive,3rd Class
+0,3,43.0,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Middle-Aged,Did Not Survive,3rd Class
+1,1,28.0,1,0,52.0,False,False,True,3,17.333333333333332,2,3.970291913552122,Adult,Survived,1st Class
+1,2,40.0,1,1,39.0,False,False,True,2,19.5,3,3.6888794541139363,Middle-Aged,Survived,2nd Class
+0,1,31.0,1,0,52.0,True,False,True,3,17.333333333333332,2,3.970291913552122,Adult,Did Not Survive,1st Class
+0,2,70.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Senior,Did Not Survive,2nd Class
+1,2,31.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Survived,2nd Class
+0,3,18.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Youth,Did Not Survive,3rd Class
+0,3,24.5,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+1,3,18.0,0,0,9.8417,False,False,True,1,9.8417,1,2.3833998102837652,Youth,Survived,3rd Class
+0,3,43.0,1,6,46.9,False,False,True,1,46.9,8,3.8691155044168695,Middle-Aged,Did Not Survive,3rd Class
+1,1,36.0,0,1,262.375,True,False,False,3,87.45833333333333,2,5.5735788721243535,Middle-Aged,Survived,1st Class
+0,3,28.0,0,0,8.1375,False,True,False,1,8.1375,1,2.212386825075897,Adult,Did Not Survive,3rd Class
+1,1,27.0,0,0,76.7292,True,False,False,3,25.576400000000003,1,4.353230991152628,Adult,Survived,1st Class
+0,3,20.0,0,0,9.225,True,False,True,1,9.225,1,2.3248357019288655,Adult,Did Not Survive,3rd Class
+0,3,14.0,5,2,46.9,True,False,True,1,46.9,8,3.8691155044168695,Youth,Did Not Survive,3rd Class
+0,2,60.0,1,1,39.0,True,False,True,2,19.5,3,3.6888794541139363,Middle-Aged,Did Not Survive,2nd Class
+0,2,25.0,1,2,41.5792,True,False,False,2,20.7896,4,3.7513658711253766,Adult,Did Not Survive,2nd Class
+0,3,14.0,4,1,39.6875,True,False,True,1,39.6875,6,3.705920919968788,Youth,Did Not Survive,3rd Class
+0,3,19.0,0,0,10.1708,True,False,True,1,10.1708,1,2.4133032309283076,Adult,Did Not Survive,3rd Class
+0,3,18.0,0,0,7.7958,True,False,True,1,7.7958,1,2.174274334826008,Youth,Did Not Survive,3rd Class
+1,1,15.0,0,1,211.3375,False,False,True,3,70.44583333333334,2,5.35817698994543,Youth,Survived,1st Class
+1,1,31.0,1,0,57.0,True,False,True,3,19.0,2,4.060443010546419,Adult,Survived,1st Class
+1,3,4.0,0,1,13.4167,False,False,False,1,13.4167,2,2.668387256845834,Child,Survived,3rd Class
+0,3,25.0,0,0,7.225,True,False,False,1,7.225,1,2.1071782966514356,Adult,Did Not Survive,3rd Class
+0,1,60.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Middle-Aged,Did Not Survive,1st Class
+0,2,52.0,0,0,13.5,True,False,True,2,6.75,1,2.6741486494265287,Middle-Aged,Did Not Survive,2nd Class
+1,3,28.0,0,0,7.7333,False,True,False,1,7.7333,1,2.167143305297764,Adult,Survived,3rd Class
+0,1,49.0,1,1,110.8833,True,False,False,3,36.9611,3,4.717456363787216,Middle-Aged,Did Not Survive,1st Class
+0,3,42.0,0,0,7.65,True,False,True,1,7.65,1,2.157559320943788,Middle-Aged,Did Not Survive,3rd Class
+1,1,18.0,1,0,227.525,False,False,False,3,75.84166666666667,2,5.4316456135398825,Youth,Survived,1st Class
+1,1,35.0,0,0,26.2875,True,False,True,3,8.762500000000001,1,3.3064287218760624,Adult,Survived,1st Class
+0,3,18.0,0,1,14.4542,False,False,False,1,14.4542,2,2.737880811060884,Youth,Did Not Survive,3rd Class
+0,3,25.0,0,0,7.7417,True,True,False,1,7.7417,1,2.1681046787623672,Adult,Did Not Survive,3rd Class
+0,3,26.0,1,0,7.8542,True,False,True,1,7.8542,2,2.180891922715322,Adult,Did Not Survive,3rd Class
+0,2,39.0,0,0,26.0,True,False,True,2,13.0,1,3.295836866004329,Middle-Aged,Did Not Survive,2nd Class
+1,2,45.0,0,0,13.5,False,False,True,2,6.75,1,2.6741486494265287,Middle-Aged,Survived,2nd Class
+1,1,42.0,0,0,26.2875,True,False,True,3,8.762500000000001,1,3.3064287218760624,Middle-Aged,Survived,1st Class
+1,1,22.0,0,0,151.55,False,False,True,3,50.51666666666667,1,5.027492411162679,Adult,Survived,1st Class
+1,1,24.0,0,0,49.5042,False,False,False,3,16.5014,1,3.922056501139853,Adult,Survived,1st Class
+0,1,28.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Adult,Did Not Survive,1st Class
+1,1,48.0,1,0,52.0,True,False,True,3,17.333333333333332,2,3.970291913552122,Middle-Aged,Survived,1st Class
+0,3,29.0,0,0,9.4833,True,False,True,1,9.4833,1,2.3497835148230464,Adult,Did Not Survive,3rd Class
+0,2,52.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Did Not Survive,2nd Class
+0,3,19.0,0,0,7.65,True,False,True,1,7.65,1,2.157559320943788,Adult,Did Not Survive,3rd Class
+1,1,38.0,0,0,227.525,False,False,False,3,75.84166666666667,1,5.4316456135398825,Middle-Aged,Survived,1st Class
+1,2,27.0,0,0,10.5,False,False,True,2,5.25,1,2.4423470353692043,Adult,Survived,2nd Class
+0,3,28.0,0,0,15.5,True,True,False,1,15.5,1,2.803360380906535,Adult,Did Not Survive,3rd Class
+0,3,33.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Adult,Did Not Survive,3rd Class
+1,2,6.0,0,1,33.0,False,False,True,2,16.5,2,3.5263605246161616,Child,Survived,2nd Class
+0,3,17.0,1,0,7.0542,True,False,True,1,7.0542,2,2.086193694502369,Youth,Did Not Survive,3rd Class
+0,2,34.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Did Not Survive,2nd Class
+0,2,50.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Did Not Survive,2nd Class
+1,1,27.0,1,0,53.1,True,False,True,3,17.7,2,3.9908341858524357,Adult,Survived,1st Class
+0,3,20.0,0,0,8.6625,True,False,True,1,8.6625,1,2.2682524139135403,Adult,Did Not Survive,3rd Class
+1,2,30.0,3,0,21.0,False,False,True,2,10.5,4,3.091042453358316,Adult,Survived,2nd Class
+1,3,28.0,0,0,7.7375,False,True,False,1,7.7375,1,2.1676241075599285,Adult,Survived,3rd Class
+0,2,25.0,1,0,26.0,True,False,True,2,13.0,2,3.295836866004329,Adult,Did Not Survive,2nd Class
+0,3,25.0,1,0,7.925,False,False,True,1,7.925,2,2.188856327665703,Adult,Did Not Survive,3rd Class
+1,1,29.0,0,0,211.3375,False,False,True,3,70.44583333333334,1,5.35817698994543,Adult,Survived,1st Class
+0,3,11.0,0,0,18.7875,True,False,False,1,18.7875,1,2.9850504252071306,Child,Did Not Survive,3rd Class
+0,3,28.5,0,0,16.1,True,False,True,1,16.1,1,2.8390784635086144,Adult,Did Not Survive,3rd Class
+0,3,48.0,1,3,34.375,False,False,True,1,34.375,5,3.5660053559634015,Middle-Aged,Did Not Survive,3rd Class
+1,1,35.0,0,0,262.375,True,False,False,3,87.45833333333333,1,5.5735788721243535,Adult,Survived,1st Class
+1,1,28.0,0,0,30.0,True,False,True,3,10.0,1,3.4339872044851463,Adult,Survived,1st Class
+0,1,36.0,1,0,78.85,True,False,True,3,26.28333333333333,2,4.380149874661021,Middle-Aged,Did Not Survive,1st Class
+1,1,21.0,2,2,262.375,False,False,False,3,87.45833333333333,5,5.5735788721243535,Adult,Survived,1st Class
+0,3,24.0,1,0,16.1,True,False,True,1,16.1,2,2.8390784635086144,Adult,Did Not Survive,3rd Class
+1,3,31.0,0,0,7.925,True,False,True,1,7.925,1,2.188856327665703,Adult,Survived,3rd Class
+0,1,70.0,1,1,71.0,True,False,True,3,23.666666666666668,3,4.276666119016055,Senior,Did Not Survive,1st Class
+0,3,16.0,1,1,20.25,True,False,True,1,20.25,3,3.056356895370426,Youth,Did Not Survive,3rd Class
+1,2,30.0,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Adult,Survived,2nd Class
+0,1,19.0,1,0,53.1,True,False,True,3,17.7,2,3.9908341858524357,Adult,Did Not Survive,1st Class
+0,3,31.0,0,0,7.75,True,True,False,1,7.75,1,2.169053700369523,Adult,Did Not Survive,3rd Class
+1,2,4.0,1,1,23.0,False,False,True,2,11.5,3,3.1780538303479458,Child,Survived,2nd Class
+1,3,6.0,0,1,12.475,True,False,True,1,12.475,2,2.600836116795061,Child,Survived,3rd Class
+0,3,33.0,0,0,9.5,True,False,True,1,9.5,1,2.3513752571634776,Adult,Did Not Survive,3rd Class
+0,3,23.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+1,2,48.0,1,2,65.0,False,False,True,2,32.5,4,4.189654742026425,Middle-Aged,Survived,2nd Class
+1,2,0.67,1,1,14.5,True,False,True,2,7.25,3,2.740840023925201,Child,Survived,2nd Class
+0,3,28.0,0,0,7.7958,True,False,True,1,7.7958,1,2.174274334826008,Adult,Did Not Survive,3rd Class
+1,1,33.0,0,0,86.5,False,False,True,3,28.833333333333332,1,4.471638793363569,Adult,Survived,1st Class
+0,3,41.0,0,0,7.125,True,False,True,1,7.125,1,2.094945728215801,Middle-Aged,Did Not Survive,3rd Class
+1,3,20.0,0,0,7.2292,True,False,False,1,7.2292,1,2.1076888046179385,Adult,Survived,3rd Class
+1,1,36.0,1,2,120.0,False,False,True,3,40.0,4,4.795790545596741,Middle-Aged,Survived,1st Class
+0,3,16.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Youth,Did Not Survive,3rd Class
+1,1,51.0,1,0,77.9583,False,False,True,3,25.986099999999997,2,4.368919865004903,Middle-Aged,Survived,1st Class
+0,1,28.0,0,0,39.6,True,False,False,3,13.200000000000001,1,3.703768066607687,Adult,Did Not Survive,1st Class
+0,3,30.5,0,0,7.75,False,True,False,1,7.75,1,2.169053700369523,Adult,Did Not Survive,3rd Class
+0,3,28.0,1,0,24.15,True,True,False,1,24.15,2,3.224857896545748,Adult,Did Not Survive,3rd Class
+0,3,32.0,0,0,8.3625,True,False,True,1,8.3625,1,2.236712348843338,Adult,Did Not Survive,3rd Class
+0,3,24.0,0,0,9.5,True,False,True,1,9.5,1,2.3513752571634776,Adult,Did Not Survive,3rd Class
+0,3,48.0,0,0,7.8542,True,False,True,1,7.8542,1,2.180891922715322,Middle-Aged,Did Not Survive,3rd Class
+0,2,57.0,0,0,10.5,False,False,True,2,5.25,1,2.4423470353692043,Middle-Aged,Did Not Survive,2nd Class
+1,2,54.0,1,3,23.0,False,False,True,2,11.5,5,3.1780538303479458,Middle-Aged,Survived,2nd Class
+0,3,18.0,0,0,7.75,True,False,True,1,7.75,1,2.169053700369523,Youth,Did Not Survive,3rd Class
+1,3,5.0,0,0,12.475,False,False,True,1,12.475,1,2.600836116795061,Child,Survived,3rd Class
+0,3,28.0,0,0,7.7375,True,True,False,1,7.7375,1,2.1676241075599285,Adult,Did Not Survive,3rd Class
+1,1,43.0,0,1,211.3375,False,False,True,3,70.44583333333334,2,5.35817698994543,Middle-Aged,Survived,1st Class
+1,3,13.0,0,0,7.2292,False,False,False,1,7.2292,1,2.1076888046179385,Youth,Survived,3rd Class
+1,1,17.0,1,0,57.0,False,False,True,3,19.0,2,4.060443010546419,Youth,Survived,1st Class
+0,1,29.0,0,0,30.0,True,False,True,3,10.0,1,3.4339872044851463,Adult,Did Not Survive,1st Class
+0,3,28.0,1,2,23.45,True,False,True,1,23.45,4,3.196630215920881,Adult,Did Not Survive,3rd Class
+0,3,25.0,0,0,7.05,True,False,True,1,7.05,1,2.085672091430472,Adult,Did Not Survive,3rd Class
+0,3,25.0,0,0,7.25,True,False,True,1,7.25,1,2.1102132003465894,Adult,Did Not Survive,3rd Class
+1,3,18.0,0,0,7.4958,False,False,True,1,7.4958,1,2.139571923732859,Youth,Survived,3rd Class
+0,3,8.0,4,1,29.125,True,True,False,1,29.125,6,3.405355391810819,Child,Did Not Survive,3rd Class
+1,3,1.0,1,2,20.575,True,False,True,1,20.575,4,3.0715352369694915,Child,Survived,3rd Class
+0,1,46.0,0,0,79.2,True,False,False,3,26.400000000000002,1,4.384523514872469,Middle-Aged,Did Not Survive,1st Class
+0,2,16.0,0,0,26.0,True,False,True,2,13.0,1,3.295836866004329,Youth,Did Not Survive,2nd Class
+0,1,28.0,0,0,30.6958,True,False,False,3,10.231933333333332,1,3.4561841799918147,Adult,Did Not Survive,1st Class
+0,3,25.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+0,2,39.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Did Not Survive,2nd Class
+1,1,49.0,0,0,25.9292,False,False,True,3,8.643066666666668,1,3.2932111997353943,Middle-Aged,Survived,1st Class
+1,3,31.0,0,0,8.6833,False,False,True,1,8.6833,1,2.270402752283094,Adult,Survived,3rd Class
+0,3,30.0,0,0,7.2292,True,False,False,1,7.2292,1,2.1076888046179385,Adult,Did Not Survive,3rd Class
+0,3,30.0,1,1,24.15,False,False,True,1,24.15,3,3.224857896545748,Adult,Did Not Survive,3rd Class
+1,2,31.0,1,1,26.25,False,False,True,2,13.125,3,3.305053521109253,Adult,Survived,2nd Class
+1,1,11.0,1,2,120.0,True,False,True,3,40.0,4,4.795790545596741,Child,Survived,1st Class
+1,3,0.42,0,1,8.5167,True,False,False,1,8.5167,2,2.2530481500547457,Child,Survived,3rd Class
+1,3,27.0,0,0,6.975,True,False,True,1,6.975,1,2.076311648670908,Adult,Survived,3rd Class
+0,3,31.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Adult,Did Not Survive,3rd Class
+0,1,39.0,0,0,0.0,True,False,True,3,0.0,1,0.0,Middle-Aged,Did Not Survive,1st Class
+0,3,18.0,0,0,7.775,False,False,True,1,7.775,1,2.1719067693519296,Youth,Did Not Survive,3rd Class
+1,1,33.0,1,0,53.1,False,False,True,3,17.7,2,3.9908341858524357,Adult,Survived,1st Class
+0,3,26.0,0,0,7.8875,True,False,True,1,7.8875,1,2.1846457951293594,Adult,Did Not Survive,3rd Class
+0,3,39.0,0,0,24.15,True,False,True,1,24.15,1,3.224857896545748,Middle-Aged,Did Not Survive,3rd Class
+0,2,35.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Did Not Survive,2nd Class
+0,3,6.0,4,2,31.275,False,False,True,1,31.275,7,3.4742929367327062,Child,Did Not Survive,3rd Class
+0,3,30.5,0,0,8.05,True,False,True,1,8.05,1,2.2027647577118348,Adult,Did Not Survive,3rd Class
+0,3,23.0,0,0,7.925,False,False,True,1,7.925,1,2.188856327665703,Adult,Did Not Survive,3rd Class
+0,2,31.0,1,1,37.0042,True,False,False,2,18.5021,3,3.637696679934592,Adult,Did Not Survive,2nd Class
+0,3,43.0,0,0,6.45,True,False,True,1,6.45,1,2.0082140323914683,Middle-Aged,Did Not Survive,3rd Class
+0,3,10.0,3,2,27.9,True,False,True,1,27.9,6,3.3638415951183864,Child,Did Not Survive,3rd Class
+1,1,52.0,1,1,93.5,False,False,True,3,31.166666666666668,3,4.548599834499697,Middle-Aged,Survived,1st Class
+1,3,27.0,0,0,8.6625,True,False,True,1,8.6625,1,2.2682524139135403,Adult,Survived,3rd Class
+0,1,38.0,0,0,0.0,True,False,True,3,0.0,1,0.0,Middle-Aged,Did Not Survive,1st Class
+1,3,27.0,0,1,12.475,False,False,True,1,12.475,2,2.600836116795061,Adult,Survived,3rd Class
+0,3,2.0,4,1,39.6875,True,False,True,1,39.6875,6,3.705920919968788,Child,Did Not Survive,3rd Class
+0,3,28.0,0,0,6.95,True,True,False,1,6.95,1,2.0731719286662407,Adult,Did Not Survive,3rd Class
+1,2,1.0,0,2,37.0042,True,False,False,2,18.5021,3,3.637696679934592,Child,Survived,2nd Class
+1,3,28.0,0,0,7.75,True,True,False,1,7.75,1,2.169053700369523,Adult,Survived,3rd Class
+1,1,62.0,0,0,80.0,False,False,True,3,26.666666666666668,1,4.394449154672439,Senior,Survived,1st Class
+1,3,15.0,1,0,14.4542,False,False,False,1,14.4542,2,2.737880811060884,Youth,Survived,3rd Class
+1,2,0.83,1,1,18.75,True,False,True,2,9.375,3,2.9831534913471307,Child,Survived,2nd Class
+0,3,23.0,0,0,7.8542,True,False,True,1,7.8542,1,2.180891922715322,Adult,Did Not Survive,3rd Class
+0,3,18.0,0,0,8.3,True,False,True,1,8.3,1,2.2300144001592104,Youth,Did Not Survive,3rd Class
+1,1,39.0,1,1,83.1583,False,False,False,3,27.71943333333333,3,4.432699549165613,Middle-Aged,Survived,1st Class
+0,3,21.0,0,0,8.6625,True,False,True,1,8.6625,1,2.2682524139135403,Adult,Did Not Survive,3rd Class
+1,1,28.0,0,0,29.7,True,False,False,3,9.9,1,3.4242626545931514,Adult,Survived,1st Class
+0,3,20.0,0,0,7.925,True,False,True,1,7.925,1,2.188856327665703,Adult,Did Not Survive,3rd Class
+0,2,16.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Youth,Did Not Survive,2nd Class
+1,1,30.0,0,0,31.0,False,False,False,3,10.333333333333334,1,3.4657359027997265,Adult,Survived,1st Class
+0,3,34.5,0,0,6.4375,True,False,False,1,6.4375,1,2.006534770871748,Adult,Did Not Survive,3rd Class
+0,3,42.0,0,0,7.55,True,False,True,1,7.55,1,2.145931282948669,Middle-Aged,Did Not Survive,3rd Class
+0,3,35.0,0,0,7.8958,True,False,False,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+0,2,28.0,0,1,33.0,True,False,True,2,16.5,2,3.5263605246161616,Adult,Did Not Survive,2nd Class
+1,1,28.0,1,0,89.1042,False,False,False,3,29.701400000000003,2,4.500966778400217,Adult,Survived,1st Class
+0,3,4.0,4,2,31.275,True,False,True,1,31.275,7,3.4742929367327062,Child,Did Not Survive,3rd Class
+0,3,74.0,0,0,7.775,True,False,True,1,7.775,1,2.1719067693519296,Senior,Did Not Survive,3rd Class
+0,3,9.0,1,1,15.2458,False,False,False,1,15.2458,3,2.7878344138303452,Child,Did Not Survive,3rd Class
+1,1,16.0,0,1,39.4,False,False,True,3,13.133333333333333,2,3.6988297849671046,Youth,Survived,1st Class
+0,2,44.0,1,0,26.0,False,False,True,2,13.0,2,3.295836866004329,Middle-Aged,Did Not Survive,2nd Class
+1,3,18.0,0,1,9.35,False,False,True,1,9.35,2,2.336986519711378,Youth,Survived,3rd Class
+1,1,45.0,1,1,164.8667,False,False,True,3,54.95556666666667,3,5.11118445372147,Middle-Aged,Survived,1st Class
+1,1,51.0,0,0,26.55,True,False,True,3,8.85,1,3.3160025355989236,Middle-Aged,Survived,1st Class
+1,3,24.0,0,3,19.2583,False,False,False,1,19.2583,4,3.0085645861193133,Adult,Survived,3rd Class
+0,3,41.0,2,0,14.1083,True,False,True,1,14.1083,3,2.7152442616824506,Middle-Aged,Did Not Survive,3rd Class
+0,2,21.0,1,0,11.5,True,False,True,2,5.75,2,2.5257286443082556,Adult,Did Not Survive,2nd Class
+1,1,48.0,0,0,25.9292,False,False,True,3,8.643066666666668,1,3.2932111997353943,Middle-Aged,Survived,1st Class
+0,2,24.0,0,0,13.0,True,False,True,2,6.5,1,2.639057329615259,Adult,Did Not Survive,2nd Class
+1,2,42.0,0,0,13.0,False,False,True,2,6.5,1,2.639057329615259,Middle-Aged,Survived,2nd Class
+1,2,27.0,1,0,13.8583,False,False,False,2,6.92915,2,2.698558631668595,Adult,Survived,2nd Class
+0,1,31.0,0,0,50.4958,True,False,True,3,16.831933333333335,1,3.941500250945973,Adult,Did Not Survive,1st Class
+1,3,4.0,1,1,11.1333,True,False,True,1,11.1333,3,2.4959537387180646,Child,Survived,3rd Class
+1,1,47.0,1,1,52.5542,False,False,True,3,17.518066666666666,3,3.9806942251907276,Middle-Aged,Survived,1st Class
+0,1,33.0,0,0,5.0,True,False,True,3,1.6666666666666667,1,1.791759469228055,Adult,Did Not Survive,1st Class
+0,3,47.0,0,0,9.0,True,False,True,1,9.0,1,2.302585092994046,Middle-Aged,Did Not Survive,3rd Class
+1,2,28.0,1,0,24.0,False,False,False,2,12.0,2,3.2188758248682006,Adult,Survived,2nd Class
+1,3,15.0,0,0,7.225,False,False,False,1,7.225,1,2.1071782966514356,Youth,Survived,3rd Class
+0,3,20.0,0,0,9.8458,True,False,True,1,9.8458,1,2.3837779082709787,Adult,Did Not Survive,3rd Class
+1,1,56.0,0,1,83.1583,False,False,False,3,27.71943333333333,2,4.432699549165613,Middle-Aged,Survived,1st Class
+1,2,25.0,0,1,26.0,False,False,True,2,13.0,2,3.295836866004329,Adult,Survived,2nd Class
+0,3,33.0,0,0,7.8958,True,False,True,1,7.8958,1,2.1855792552411137,Adult,Did Not Survive,3rd Class
+0,3,22.0,0,0,10.5167,False,False,True,1,10.5167,1,2.4437981558973862,Adult,Did Not Survive,3rd Class
+0,2,28.0,0,0,10.5,True,False,True,2,5.25,1,2.4423470353692043,Adult,Did Not Survive,2nd Class
+0,3,39.0,0,5,29.125,False,True,False,1,29.125,6,3.405355391810819,Middle-Aged,Did Not Survive,3rd Class
+1,1,19.0,0,0,30.0,False,False,True,3,10.0,1,3.4339872044851463,Adult,Survived,1st Class
+0,3,28.0,1,2,23.45,False,False,True,1,23.45,4,3.196630215920881,Adult,Did Not Survive,3rd Class
+1,1,26.0,0,0,30.0,True,False,False,3,10.0,1,3.4339872044851463,Adult,Survived,1st Class
+0,3,32.0,0,0,7.75,True,True,False,1,7.75,1,2.169053700369523,Adult,Did Not Survive,3rd Class
