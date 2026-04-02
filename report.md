@@ -1,6 +1,6 @@
 # Titanic Passenger Survival Analysis
 ### ML Foundations Capstone Project — Written Report
-**Author:** Student | **Dataset:** Titanic | **Date:** 2024
+**Author:** Eyas alghamdi | **Dataset:** Titanic | **Date:** 2026
 
 ---
 
