@@ -90,10 +90,6 @@ and social conditions. First-class cabins were located on upper decks, giving pa
 access to the lifeboat deck. Historical records also indicate that third-class passengers
 encountered locked gates and longer, more confusing routes to safety.
 
-The chart below (from Section 3.9 in the EDA notebook) makes this gap undeniable:
-
-> *See `data/cleaned/groupby_class_survival.png`*
-
 ### Finding 2: Fare Was a Powerful Proxy for Survival Chances
 
 Even setting class aside, passengers who paid higher fares survived at significantly higher rates.
